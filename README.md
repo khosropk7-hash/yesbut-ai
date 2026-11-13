@@ -8,6 +8,8 @@ question in one room, challenge each other, and hand their conclusion to the
 next step. You bring your own API keys; the program runs on your machine and
 keeps your chats, files and keys there.
 
+![YesBut AI: the dashboard, with the provider lights at the top](docs/screenshot.png)
+
 ## What it does
 
 - **Conference rooms.** Several models in one thread, over several rounds,
