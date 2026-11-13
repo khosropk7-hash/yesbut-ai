@@ -1,0 +1,115 @@
+YESBUT AI — END-USER LICENCE AGREEMENT
+
+Copyright (c) 2026 Khosro PK. All rights reserved.
+
+This is proprietary software. It is licensed, not sold. By installing,
+copying or using the Software you agree to this Agreement. If you do not
+agree, do not install or use the Software.
+
+1. DEFINITIONS
+   "Software" means YesBut AI in object-code form, its updates, and the
+   accompanying documentation, as provided by the Licensor.
+   "Licensor" means Khosro PK, Antalya, Turkey.
+   "You" means the individual installing or using the Software.
+
+2. LICENCE GRANT
+   Subject to this Agreement, the Licensor grants You a personal,
+   non-exclusive, non-transferable, non-sublicensable, revocable licence to
+   install and use the Software on computers You own or control, strictly for
+   Your own personal, non-commercial use. Any commercial use, sale, or monetization
+   is strictly prohibited.
+
+3. RESTRICTIONS
+   You may not, and may not permit anyone else to:
+   (a) copy the Software, except for installation as permitted above and for
+       reasonable backup copies;
+   (b) sell, rent, lease, lend, distribute, publish, sublicense, monetize, or otherwise
+       make the Software available to any third party, including hosting it on a website,
+       cloud service, or managed service for others, or using it to generate revenue in any form;
+   (c) reverse engineer, decompile, disassemble or otherwise try to derive
+       the source code of the Software, except to the extent that applicable
+       law expressly permits this despite this restriction;
+   (d) modify, adapt, translate or create derivative works of the Software;
+   (e) remove, alter or obscure any proprietary notice, label or mark;
+   (f) remove, hide, block, replace or alter the announcements, banners or
+       update notices the Software displays, or interfere with the Software
+       retrieving them;
+   (g) circumvent any technical limitation or security measure of the
+       Software; or
+   (h) use the Software in breach of any applicable law.
+
+4. OWNERSHIP
+   The Software, including all copies and all intellectual-property rights in
+   it, is and remains the property of the Licensor. All rights not expressly
+   granted to You are reserved.
+
+5. THIRD-PARTY COMPONENTS
+   The Software includes third-party components, each licensed by its own
+   authors under its own terms. Those terms are reproduced in the file
+   THIRD_PARTY_NOTICES.txt that ships with the Software. Nothing in this
+   Agreement limits Your rights under those licences for those components.
+
+6. YOUR DATA AND THIRD-PARTY SERVICES
+   (a) The Software runs on Your computer and stores Your data there. The
+       Licensor does not receive Your accounts, chats, files or API keys.
+   (b) You may connect the Software to third-party services, such as AI model
+       providers, using credentials You supply. Your use of those services is
+       governed by their terms, and You are responsible for any fees they
+       charge and for the content You send to them.
+   (c) Network connections the Software makes on its own:
+       (i)   Announcements. While online, it fetches a public announcement
+             file hosted on GitHub (at most about every 15 minutes, when the
+             app is used) to show announcements from the Licensor, which may
+             include promotional content, and update notices. The request
+             carries no account data, cookies or identifiers, but like any
+             internet request it reveals Your IP address to GitHub. An
+             announcement with an image or video is loaded by Your browser
+             from the host it names (for example YouTube). Announcements
+             are part of the Software and cannot be switched off (see 3(f)).
+       (ii)  AI providers and other services You connect, as described in
+             (b), when You use them. To show whether a key works, the
+             Software also asks each configured provider for its list of
+             models; that request carries no content of Yours.
+       The Software's own pages, scripts and fonts are included in it and
+       are not loaded from the internet.
+   (d) You are responsible for backing up Your data.
+
+7. UPDATES
+   The Licensor may provide updates but is not obliged to do so. Updates are
+   governed by this Agreement unless they come with different terms.
+
+8. TERMINATION
+   This licence ends automatically if You breach this Agreement. You may end
+   it at any time by deleting the Software. On termination You must stop
+   using the Software and delete all copies. Sections 3, 4, 5, 9, 10 and 12
+   survive termination.
+
+9. DISCLAIMER OF WARRANTIES
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED "AS IS"
+   AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+   NON-INFRINGEMENT AND ACCURACY. OUTPUT GENERATED BY AI MODELS MAY BE WRONG,
+   AND YOU ARE RESPONSIBLE FOR CHECKING IT BEFORE RELYING ON IT.
+
+10. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR IS NOT LIABLE FOR ANY
+   INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR
+   LOSS OF DATA, PROFITS OR BUSINESS, ARISING OUT OF OR RELATED TO THE
+   SOFTWARE. THE LICENSOR'S TOTAL LIABILITY IS LIMITED TO THE AMOUNT YOU
+   PAID FOR THE SOFTWARE IN THE TWELVE MONTHS BEFORE THE CLAIM, OR
+   $0 IF YOU PAID NOTHING. Some jurisdictions do not allow these
+   limitations; there they apply only as far as permitted.
+
+11. EXPORT AND SANCTIONS
+   You are responsible for complying with the export-control and sanctions
+   laws that apply to You and to Your use of the Software.
+
+12. GENERAL
+   (a) Governing law: Turkey, without regard to conflict-of-law rules.
+       Courts: the courts of Antalya, Turkey.
+   (b) If any provision is held unenforceable, the rest remains in effect.
+   (c) This Agreement is the entire agreement between You and the Licensor
+       about the Software and replaces any earlier understanding.
+   (d) The Licensor may assign this Agreement. You may not assign it without
+       the Licensor's written consent.
+   (e) Contact: through https://github.com/khosropk7-hash/yesbut-ai/issues
